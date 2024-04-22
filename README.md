@@ -31,6 +31,6 @@ Protect your valuable online credentials with the Secure Password Manager. This 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Configure your MySQL database credentials in the `config.py` file.
-4. Run the application using `python password_manager.py` and follow the on-screen instructions.
+4. Run the application using `python password manager.py` and follow the on-screen instructions.
 
 Take control of your online security today with the Secure Password Manager. Protect your passwords, safeguard your accounts, and stay one step ahead of cyber threats.
